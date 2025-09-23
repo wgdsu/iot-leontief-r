@@ -9,7 +9,7 @@ Those wishing to familiarise themselves with input output analysis are directed 
 1. Clone the repository:
 
 ```
-git clone [REPOSITORY CLONE PATH]
+git clone https://github.com/wgdsu/iot-leontief-r.git
 ```
 
 2. Open RStudio and run the following command to install the devtools package (if is not already installed)
@@ -78,3 +78,4 @@ To view the documentation, run the following R commands:
 help("iotleontief::calculate_technical_coefficients")
 help("iotleontief::calculate_leontief_inverse")
 ```
+
